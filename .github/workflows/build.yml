@@ -26,3 +26,8 @@ jobs:
           restore-keys: ${{ runner.os }}-m2
       - name: Build
         run: mvn -B verify
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: coreprotect # Give your artifact a name
+          path: target/ # The path to the artifact you want to upload.
