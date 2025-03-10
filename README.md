@@ -1,3 +1,10 @@
+## This is CoreProtectBuilds. Sign in and check the Actions tab to download the latest releases for CoreProtect.
+
+
+
+
+
+
 ![CoreProtect](https://userfolio.com/uploads/coreprotect-banner-v19.png)
 
 [![Artistic License 2.0](https://img.shields.io/github/license/PlayPro/CoreProtect?&logo=github)](LICENSE)
