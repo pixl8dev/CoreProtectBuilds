@@ -53,7 +53,8 @@ nbproject
 
 target
 dependency-reduced-pom.xml
-test/
+src/test
+maven_output.txt
 
 # Wrapper files
 mvnw
@@ -173,6 +174,11 @@ Desktop.ini
 #############
 
 .cursorrules
+.windsurfrules
+context.json
+run.sh
+run_*.sh
+no-log4j2.xml
 
 # Compiled class file
 *.class
